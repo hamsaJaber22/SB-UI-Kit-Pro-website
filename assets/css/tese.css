@@ -1,0 +1,39 @@
+/* Start section3 */
+
+section .product {
+    background-color: rgb(242, 246, 252);
+    padding-top: 100px;
+}
+
+section .product .photo {
+    box-shadow: 10px 10px 5px 12px grey;
+    padding-top: 20px;
+}
+
+section .product img {
+    width: 50%;
+    height: 100%;
+}
+
+section .product .photo .con {
+    margin: auto;
+}
+
+section .product .photo .con h1 {
+    color: #363d47;
+    text-transform: uppercase;
+}
+
+section .product .photo .con p {
+    color: gray;
+    text-transform: capitalize;
+    text-align: center;
+    padding-top: 15px;
+}
+
+section .product .photo .con .btnS {
+    margin-top: 20px;
+}
+
+
+/* End section3 */

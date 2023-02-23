@@ -1,2 +1,2 @@
-# SB UI Kit Pro 2
+# SB UI Kit Pro 
 
